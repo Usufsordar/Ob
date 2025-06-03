@@ -1,0 +1,9 @@
+{
+  "name": "simple-html-js-obfuscator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "esprima": "^4.0.1",
+    "escodegen": "^2.0.0"
+  }
+}
